@@ -11,9 +11,6 @@
 *Contains dictionary
 *Covers all time ranges, including night hours (00:00–05:59)
 #Testing
-\*I was using my own name "Dainius" to see the program run at different times of day and week. I also tried with a empty spaces and empty name to see if it crashes.
-# GoodMorning
-# GoodMorning
-# GoodMorning
-# GoodMorning
-# GoodMorning
+*I was using my own name "Dainius" to see the program run at different times of day and weekdays. I also tried with whitespaces and empty names to see if it crashes.
+
+
